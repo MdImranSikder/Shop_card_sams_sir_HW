@@ -59,7 +59,7 @@ main{
     margin: 0 auto;
     background-color: whitesmoke;
     justify-items: center;
-    
+    margin-bottom: 10px;
 }
 .card{
     width: 80%;
